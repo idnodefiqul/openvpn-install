@@ -103,20 +103,20 @@
 ### 🎯 **One-Line Installation**
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/install-openvpn/main/installv2.sh) openvpn NAMA_USER
+bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/openvpn-install/main/installer.sh) openvpn NAMA_USER
 ```
 
 ### 📝 **Contoh Penggunaan**
 
 ```bash
 # Untuk user bernama "hanji"
-bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/install-openvpn/main/installv2.sh) openvpn hanji
+bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/openvpn-install/main/installer.sh) openvpn hanji
 
 # Untuk user bernama "admin2024"  
-bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/install-openvpn/main/installv2.sh) openvpn admin2024
+bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/openvpn-install/main/installer.sh) openvpn admin2024
 
 # Untuk user bernama "user123"
-bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/install-openvpn/main/installv2.sh) openvpn user123
+bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/openvpn-install/main/installer.sh) openvpn user123
 ```
 
 ### ⚡ **Quick Start (Copy & Paste)**
@@ -126,7 +126,7 @@ bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/install-openvpn/mai
 
 ```bash
 # Ganti 'USERNAME' dengan nama user Anda
-sudo bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/install-openvpn/main/installv2.sh) openvpn USERNAME
+sudo bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/openvpn-install/main/installer.sh) openvpn USERNAME
 ```
 
 **⚠️ Jangan lupa mengganti `USERNAME` dengan nama user yang diinginkan!**
@@ -141,7 +141,7 @@ sudo bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/install-openvp
 
 ```bash
 # Format: bash <(curl -s URL) openvpn NAMA_USER
-sudo bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/install-openvpn/main/installv2.sh) openvpn hanji
+sudo bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/openvpn-install/main/installer.sh) openvpn hanji
 ```
 
 ### 2️⃣ **Proses Instalasi**
@@ -586,7 +586,7 @@ EOF
 
 <div align="center">
 
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/idnodefiqul/install-openvpn/issues)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github)](https://github.com/idnodefiqul)
 [![Telegram](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/openvpnsupport)
 [![Discord](https://img.shields.io/badge/Discord-Community-purple?style=for-the-badge&logo=discord)](https://discord.gg/openvpn)
 
